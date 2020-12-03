@@ -1,5 +1,5 @@
 ----
-# ![](./src/assets/img/Readme/Readme.png) SEI-38 Final Project: CARDBAY
+# ![](./src/assets/img/Readme/Readme.png). SEI-38 Final Project: CARDBAY
 
 This was developed as part of SEI 38 for my final project, the goal was to build a web application from scratch, to show off what I have learned over my short, yet intense three month 'coding-bootcamp' at General Assembly. The type of web application I chose to create was completely up to me as well as the tech stack.
 
@@ -15,14 +15,14 @@ You can see the site **[HERE](https://frozen-taiga-03219.herokuapp.com/).**
 
 The Home page, lists the items for sale and allows the customer to view, photo's, descriptions and price of the products we stock.
 
-![](./src/assets/img/Readme/Home.png)
+![](./src/assets/img/Readme/Home.png).
 
 ---
 #### Nav-Bar
 
 The Nav-bar, gives links to the cart where a customer can see the products they have added to their cart, also both the logo and 'CARDBAY' redirect to the home page. Signup/Lopin will be a pop up window once completed at the moment it is a dead Link.
 
-![](./src/assets/img/Readme/NavBar.png)
+![](./src/assets/img/Readme/NavBar.png).
 
 ---
 #### Cart
@@ -31,7 +31,7 @@ The Cart is where a customer can view all the products that they have added, and
 
 (Square API Coming)
 
-![](./src/assets/img/Readme/Cart.png)
+![](./src/assets/img/Readme/Cart.png).
 
 
 
@@ -54,7 +54,7 @@ The Cart is where a customer can view all the products that they have added, and
 
  Both Features are ready to be implemented, ran out of time so aren't ready for this demo unfortunately.
 
- ![](./src/assets/img/Readme/MYSQL.png)
+ ![](./src/assets/img/Readme/MYSQL.png).
 
 ---
 
