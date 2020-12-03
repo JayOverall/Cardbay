@@ -1,0 +1,29 @@
+.nav-wrapper {
+  background-color: rgba(247, 202, 24, 1)!important;
+}
+
+.btn-outline-success {
+  border-color: rgb(239, 86, 71) !important;
+  color: rgb(239, 86, 71);
+}
+
+#logo {
+  height: 4em;
+}
+
+ .nav-link.active {
+  color: rgba(154, 18, 179, 1) !important;
+}
+
+.fa-2x {
+  color: rgba(154, 18, 179, 1);
+  margin-right: 20px;
+}
+
+@media only screen and (max-width: 700px) {
+
+  .message-nav {
+    display: none;
+  }
+
+}

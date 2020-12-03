@@ -1,0 +1,28 @@
+.card {
+  padding: $spacer !important;
+  colour: red;
+}
+
+
+.card-img-top {
+  width: 100%;
+  height: 40vh;
+  object-fit: contain;
+}
+
+.card-content {
+  width: 95%, 95%, 95%, 95%;
+  text-align: center;
+}
+
+.card-des{
+ width: 95%, 95%, 95%, 95%;
+ text-align: center;
+
+}
+
+.card-price {
+  width: 95%, 95%, 95%, 95%;
+  colour: blue;
+  text-align: center;
+}
