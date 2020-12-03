@@ -3,8 +3,6 @@
 
 This was developed as part of SEI 38 for my final project, the goal was to build a web application from scratch, to show off what I have learned over my short, yet intense three month 'coding-bootcamp' at General Assembly. The type of web application I chose to create was completely up to me as well as the tech stack.
 
-There were a few prerequisite's conditions for the app, they are as follows:
-
 You can see the site **[HERE](https://frozen-taiga-03219.herokuapp.com/).**
 
 -----
