@@ -18,14 +18,14 @@ The Home page, lists the items for sale and allows the customer to view, photo's
 ---
 #### Nav-Bar
 
-The Nav-bar, gives links to the cart where a customer can see the products they have added to their cart, also both the logo and 'CARDBAY' redirect to the home page. Signup/Lopin will be a pop up window once completed at the moment it is a dead Link.
+The Nav-bar, gives links to the cart where a customer can see the products they have added to their cart, also both the logo and 'CARDBAY' redirect to the home page. Signup/Login will be a pop up window once completed.
 
 ![](./Readme/NavBar.png).
 
 ---
 #### Cart
 
-The Cart is where a customer can view all the products that they have added, and can see the total costs of their order having the option  to subtract or add items to their cart. As well as a shipping button that adds a shipping tax.
+The Cart is where a customer can view all the products that they have added, and can see the total cost of their order, having the option  to subtract or add items to their cart. As well as a shipping button that adds a shipping tax.
 
 (Square API Coming)
 
